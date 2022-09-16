@@ -47,9 +47,9 @@ The main challenges that I ran into during this analysis were some formatting is
 
 ### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 May is the best time to launch a fundraiser, as that is when the greatest number of successes are, and greatest gap between successful and failed projects. December is the worst time of year to start a fundraiser, as the number of successful projects drop to its lowest point, and the smallest gap between successful and failed project count.  
-###What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 The lower your goal is, the more likely you are to succeed. However, there is a sweet spot for projects with a goal of $30,000-$40,000, where there is an increase in successes. 
-###What are some limitations of this dataset?
+### What are some limitations of this dataset?
 
 The biggest limitation is that this dataset ends in 2017- as it is 5 years later, there is presumably a large amount of data that would have been uploaded by now, and would make our analysis more exact and specific. Especially due to world events in the past 5 years that have dramatically affected both the US economy and the economic standing of a number of possible donors, this dataset will not provide us the most up to date information on donor habits and patterns, as donor interest and donateable income may have changed significantly in a number of cases. Especially since theater/play performances are a primarily indoor activity, the recent pandemic could have drastically affected not just the metrics of theater based fundraisers, but the actual number of theater based fundraisers.
 Another limitation is that this dataset is only for Kickstarter fundraising campaigns. If Louise wanted an exhaustive overview of fundraising data to form a strategy for future fundraisers, it would be helpful to also include data from other fundraising platforms such as GoFundMe and Patreon. Although these platforms are geared towards slightly different projects, the data could still be useful in understanding trends in how donors choose how much, when, and where to donate, and would provide an additional level of filtering. 
